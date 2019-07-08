@@ -4,5 +4,5 @@ These codes will draw phones.
 A phone consists of several shapes (circles, rectangles)
 of different colors.
 
-<a href="phone.png">
-<a href="phone2.png">
+<img src="phone.png">
+<img src="phone2.png">
